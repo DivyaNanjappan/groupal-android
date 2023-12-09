@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright 2023. All rights reserved.
+  ~ Dissemination of this information or reproduction of this material is strictly forbidden
+  ~ unless prior written permission is obtained from Divya N.
+  ~
+  ~ Created by Divya N
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_menu_home"
+        android:title="@string/menu_home"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_jobs"
+        android:enabled="true"
+        android:icon="@drawable/ic_menu_jobs"
+        android:title="@string/menu_jobs"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_saved"
+        android:enabled="true"
+        android:icon="@drawable/ic_menu_save"
+        android:title="@string/menu_saved"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_profile"
+        android:enabled="true"
+        android:icon="@drawable/ic_menu_profile"
+        android:title="@string/menu_profile"
+        app:showAsAction="ifRoom" />
+
+</menu>

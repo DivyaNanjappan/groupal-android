@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2023. All rights reserved.
+  ~ Dissemination of this information or reproduction of this material is strictly forbidden
+  ~ unless prior written permission is obtained from Divya N.
+  ~
+  ~ Created by Divya N
+  -->
+
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/ic_launcher_background"/>
+    <foreground android:drawable="@mipmap/ic_launcher_foreground"/>
+</adaptive-icon>

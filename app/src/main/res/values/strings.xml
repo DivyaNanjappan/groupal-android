@@ -1,0 +1,74 @@
+<!--
+  ~ Copyright 2023. All rights reserved.
+  ~ Dissemination of this information or reproduction of this material is strictly forbidden
+  ~ unless prior written permission is obtained from Divya N.
+  ~
+  ~ Created by Divya N
+  -->
+
+<resources>
+    <string name="app_name">Groupal</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_jobs">Jobs</string>
+    <string name="menu_saved">Saved</string>
+    <string name="menu_profile">Profile</string>
+    <string name="your_profile">Your Profile</string>
+    <string name="empty">Empty</string>
+
+    <string name="latest_job">Latest Job</string>
+    <string name="see_all"><u>See All</u></string>
+    <string name="suggested_for_you">Suggested for you</string>
+
+    <string name="product_designer">Product Designer</string>
+    <string name="company_name">Infosys</string>
+    <string name="no_applicants">120 Applications</string>
+    <string name="time_post">12 days ago</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit minim veniam.</string>
+    <string name="google">Google</string>
+    <string name="no_hiring">100+ Hiring</string>
+    <string name="full_time">Full Time</string>
+    <string name="yrs_exp">2-3 Yrs Exp</string>
+    <string name="job_type">Remote</string>
+    <string name="search_job">Search Job</string>
+    <string name="personal_info">Personal Info</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="gender">Gender</string>
+    <string name="martial_status">Martial Status</string>
+    <string name="differently_abled">Differently Abled</string>
+    <string name="hint_dob">10-April-1998</string>
+    <string name="hint_gender">Female</string>
+    <string name="hint_martial_status">Married</string>
+    <string name="hint_physical_state">No</string>
+    <string name="email_id">Email Id</string>
+    <string name="hint_email">ava@gmail.com</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="hint_mobile_no">+91 9988776655</string>
+    <string name="alternate_mobile_number">Alternate Mobile Number</string>
+    <string name="nil">Nil</string>
+    <string name="address">Address</string>
+    <string name="hint_address">R.S Puram</string>
+    <string name="district">District</string>
+    <string name="hint_district">Coimbatore</string>
+    <string name="state">State</string>
+    <string name="hint_state">TamilNadu</string>
+    <string name="pin_code">PinCode</string>
+    <string name="hint_pin_code">641001</string>
+    <string name="contact_info">Contact Info</string>
+    <string name="hint_name">Ava Thomas</string>
+    <string name="education_info">Education Info</string>
+    <string name="m_des_in_mobile_design">M.Des in Mobile Design</string>
+    <string name="oxford_university">Oxford University</string>
+    <string name="degree_duration">2016-2020 | Full Time</string>
+    <string name="social_links">Social Links</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="linkedin_url">https://in.linkedin.com/</string>
+    <string name="twitter">Twitter</string>
+    <string name="twitter_url">https://twitter.com/login</string>
+    <string name="languages">Languages</string>
+    <string name="english">English</string>
+    <string name="read_write_speak">Read, Write, Speak</string>
+    <string name="tamil">Tamil</string>
+
+</resources>
